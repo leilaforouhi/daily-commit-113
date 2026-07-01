@@ -1,4 +1,4 @@
-def count_unique_numbers(number):
+def count_unique_numbers(numberS):
     return len(set(numbers))
 
 if __name__ == "__main__":
